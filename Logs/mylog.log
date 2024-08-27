@@ -1,0 +1,55 @@
+[INFO ] 2024-08-27 13:40:36.007 [main] MyStoreV1 - URL Opened
+[INFO ] 2024-08-27 13:40:37.790 [main] MyStoreV1 - Entered email address
+[INFO ] 2024-08-27 13:40:37.900 [main] MyStoreV1 - Entered password
+[INFO ] 2024-08-27 13:40:38.741 [main] MyStoreV1 - Click on sign in button
+[INFO ] 2024-08-27 13:40:38.773 [main] MyStoreV1 - verifyLogin- passed
+[INFO ] 2024-08-27 13:40:39.686 [main] MyStoreV1 - Clicked on SignOut
+[INFO ] 2024-08-27 13:40:40.466 [main] MyStoreV1 - Entered email address
+[INFO ] 2024-08-27 13:40:40.559 [main] MyStoreV1 - Entered password
+[INFO ] 2024-08-27 13:40:41.220 [main] MyStoreV1 - Click on sign in button
+[INFO ] 2024-08-27 13:40:41.235 [main] MyStoreV1 - verifyLogin- passed
+[INFO ] 2024-08-27 13:40:42.225 [main] MyStoreV1 - Clicked on SignOut
+[INFO ] 2024-08-27 13:41:40.344 [main] MyStoreV1 - URL Opened
+[INFO ] 2024-08-27 13:41:40.364 [main] MyStoreV1 - verifyLogin- passed
+[INFO ] 2024-08-27 13:41:41.291 [main] MyStoreV1 - Click on signin
+[INFO ] 2024-08-27 13:41:41.445 [main] MyStoreV1 - Entered email address
+[INFO ] 2024-08-27 13:41:41.537 [main] MyStoreV1 - Entered password
+[INFO ] 2024-08-27 13:41:42.427 [main] MyStoreV1 - Click on sign in button
+[INFO ] 2024-08-27 13:41:42.456 [main] MyStoreV1 - Get the expected name
+[INFO ] 2024-08-27 13:41:43.381 [main] MyStoreV1 - entered search item in the search box
+[INFO ] 2024-08-27 13:41:45.919 [main] MyStoreV1 - Clicked on More button
+[INFO ] 2024-08-27 13:41:46.061 [main] MyStoreV1 - Product size selected M
+[INFO ] 2024-08-27 13:41:46.135 [main] MyStoreV1 - Product colour selected pink
+[INFO ] 2024-08-27 13:41:51.965 [main] MyStoreV1 - URL Opened
+[INFO ] 2024-08-27 13:41:53.857 [main] MyStoreV1 - Entered email address
+[INFO ] 2024-08-27 13:41:53.933 [main] MyStoreV1 - Entered password
+[INFO ] 2024-08-27 13:41:54.787 [main] MyStoreV1 - Click on sign in button
+[INFO ] 2024-08-27 13:41:54.817 [main] MyStoreV1 - verifyLogin- passed
+[INFO ] 2024-08-27 13:41:55.717 [main] MyStoreV1 - Clicked on SignOut
+[INFO ] 2024-08-27 13:41:56.455 [main] MyStoreV1 - Entered email address
+[INFO ] 2024-08-27 13:41:56.525 [main] MyStoreV1 - Entered password
+[INFO ] 2024-08-27 13:41:57.287 [main] MyStoreV1 - Click on sign in button
+[INFO ] 2024-08-27 13:41:57.309 [main] MyStoreV1 - verifyLogin- passed
+[INFO ] 2024-08-27 13:41:58.205 [main] MyStoreV1 - Clicked on SignOut
+[INFO ] 2024-08-27 13:46:29.902 [main] MyStoreV1 - URL Opened
+[INFO ] 2024-08-27 13:46:29.919 [main] MyStoreV1 - verifyLogin- passed
+[INFO ] 2024-08-27 13:46:30.838 [main] MyStoreV1 - Click on signin
+[INFO ] 2024-08-27 13:46:31.005 [main] MyStoreV1 - Entered email address
+[INFO ] 2024-08-27 13:46:31.086 [main] MyStoreV1 - Entered password
+[INFO ] 2024-08-27 13:46:32.023 [main] MyStoreV1 - Click on sign in button
+[INFO ] 2024-08-27 13:46:32.057 [main] MyStoreV1 - Get the expected name
+[INFO ] 2024-08-27 13:46:33.065 [main] MyStoreV1 - entered search item in the search box
+[INFO ] 2024-08-27 13:46:35.500 [main] MyStoreV1 - Clicked on More button
+[INFO ] 2024-08-27 13:46:35.655 [main] MyStoreV1 - Product size selected M
+[INFO ] 2024-08-27 13:46:35.717 [main] MyStoreV1 - Product colour selected pink
+[INFO ] 2024-08-27 13:46:42.009 [main] MyStoreV1 - URL Opened
+[INFO ] 2024-08-27 13:46:45.243 [main] MyStoreV1 - Entered email address
+[INFO ] 2024-08-27 13:46:45.306 [main] MyStoreV1 - Entered password
+[INFO ] 2024-08-27 13:46:46.265 [main] MyStoreV1 - Click on sign in button
+[INFO ] 2024-08-27 13:46:46.294 [main] MyStoreV1 - verifyLogin- passed
+[INFO ] 2024-08-27 13:46:47.175 [main] MyStoreV1 - Clicked on SignOut
+[INFO ] 2024-08-27 13:46:47.919 [main] MyStoreV1 - Entered email address
+[INFO ] 2024-08-27 13:46:47.996 [main] MyStoreV1 - Entered password
+[INFO ] 2024-08-27 13:46:48.739 [main] MyStoreV1 - Click on sign in button
+[INFO ] 2024-08-27 13:46:48.763 [main] MyStoreV1 - verifyLogin- passed
+[INFO ] 2024-08-27 13:46:50.432 [main] MyStoreV1 - Clicked on SignOut

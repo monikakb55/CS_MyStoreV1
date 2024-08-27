@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.MyStoreUtilities.ExtentListenerClass1"></listener>
+	</listeners>
+  <test name="Test">
+    <classes>
+      <class name = "com.MyStoreTestCases.TC_ProductPageTest"/>
+            <class name = "com.MyStoreTestCases.TC_MyAccounPageTestDataDrivenTesting"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
